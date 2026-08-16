@@ -33,5 +33,5 @@ Esta organização tem como objetivo manter o histórico de aprendizado organiza
 ---
 
 ### 📬 Contato e Redes
-* 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/lucas-fontes-58a363228/)
+* 💼 **LinkedIn:** [Lucas Costa Fontes](https://www.linkedin.com/in/lucas-fontes-58a363228/)
 * ✉️ **E-mail:** `lucas.cf11@aluno.ifsc.edu.br`
