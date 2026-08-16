@@ -1,8 +1,8 @@
 # Documentação e catalogação acadêmica
 
-## 🎓 Projetos Acadêmicos — [Engenharia de Telecomunicações]
+## 🎓 Projetos Acadêmicos — Engenharia de Telecomunicações
 
-Bem-vindo à organização dedicada ao armazenamento, documentação e versionamento de todos os projetos e trabalhos práticos desenvolvidos durante o meu curso de **[Engenharia de Telecomunicações]** no **[IFSC - Campus São José]**.
+Bem-vindo à organização dedicada ao armazenamento, documentação e versionamento de todos os projetos e trabalhos práticos desenvolvidos durante o meu curso de **Engenharia de Telecomunicações** no **IFSC - Campus São José**.
 
 ---
 
