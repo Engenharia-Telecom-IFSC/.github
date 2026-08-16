@@ -11,7 +11,7 @@ Esta organização tem como objetivo manter o histórico de aprendizado organiza
 
 * 🏫 **Instituição:** Instituto Federal de Santa Catarina - Campus São José
 * 🎓 **Curso:** Engenharia de Telecomunicações
-* 📅 **Período:** 2020/2] - [Atualmente
+* 📅 **Período:** 2020/2 - Atualmente
 * 👤 **Autor:** [Lucas Costa Fontes](https://github.com/lucascf11)
 
 ---
