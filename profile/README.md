@@ -9,10 +9,10 @@ Bem-vindo à organização dedicada ao armazenamento, documentação e versionam
 ### 📌 Sobre a Organização
 Esta organização tem como objetivo manter o histórico de aprendizado organizado por disciplinas, servindo como portfólio acadêmico e técnico.
 
-* 🏫 **Instituição:** [Instituto Federal de Santa Catarina - Campus São José]
-* 🎓 **Curso:** [Engenharia de Telecomunicações]
-* 📅 **Período:** [2020/2] - [Atualmente]
-* 👤 **Autor:** [[Lucas Costa Fontes](https://github.com/lucascf11)]
+* 🏫 **Instituição:** Instituto Federal de Santa Catarina - Campus São José
+* 🎓 **Curso:** Engenharia de Telecomunicações
+* 📅 **Período:** 2020/2] - [Atualmente
+* 👤 **Autor:** [Lucas Costa Fontes](https://github.com/lucascf11)
 
 ---
 
